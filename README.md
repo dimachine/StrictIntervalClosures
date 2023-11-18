@@ -1,7 +1,8 @@
 # Strict Interval Closures
 
-iPython codes for couting [A364656](https://oeis.org/A364656): Number of strict interval closure operators on a set of n elements up to n=6.
-
+* iPython codes for couting [A364656](https://oeis.org/A364656): Number of strict interval closure operators on a set of n elements up to n=6.
+* iPython codes for non-isomorphic version A364656: Number of inequivalent strict interval closure operators on a set of n elements.
+  
 ## References
 
 * Chepoi, V. [Separation of two convex sets in convexity structures](https://doi.org/10.1007/BF01222661). J Geom 50, 30–51 (1994). 
